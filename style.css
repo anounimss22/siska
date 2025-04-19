@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  background: linear-gradient(to right, #4a90e2, #2c3e50);
+  background: linear-gradient(to right, #EBE5C2, #B9B28A);
   color: white;
   text-align: center;
   padding: 3rem 1rem;
@@ -42,7 +42,7 @@ header p {
   margin-top: 1rem;
   padding: 0.6rem 1.2rem;
   background-color: #f9f9f9;
-  color: #2c3e50;
+  color: #EBE5C2;
   font-weight: 600;
   border: 2px solid #f9f9f9;
   border-radius: 8px;
@@ -69,7 +69,7 @@ h2 {
 .about, .info, .portfolio, .contact {
   margin-bottom: 3rem;
   padding: 1rem;
-  border-left: 4px solid #4a90e2;
+  border-left: 4px solid #EBE5C2;
   background-color: #eef3f7;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.05);
